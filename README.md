@@ -1,6 +1,6 @@
 # proxy-list
 
-Proxies are checked on my VPS every 30 minutes using [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker).
+Proxies are checked on my VPS every 30 minutes using [multics76/proxy-scraper-checker](https://github.com/multics76/proxy-scraper-checker).
 
 ## Folders description
 
