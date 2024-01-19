@@ -1,0 +1,48 @@
+51.20.50.149:3128|Sweden|Stockholm|Stockholm
+18.185.169.150:3128|Denmark|Hesse|Frankfurt am Main
+3.123.150.192:3128|Denmark|Hesse|Frankfurt am Main
+99.80.11.54:3128|Ireland|Leinster|Dublin
+13.37.89.201:3128|France|Île-de-Franc|Paris
+3.122.84.99:3128|Denmark|Hesse|Frankfurt am Main
+52.16.232.164:3128|Ireland|Leinster|Dublin
+13.48.109.48:3128|Sweden|Stockholm|Stockholm
+54.228.164.102:3128|Ireland|Leinster|Dublin
+89.208.30.221:7894|Russia|Belgorod Oblast|Bessonovka
+3.9.71.167:3128|United Kingdom|England|London
+13.59.156.167:3128|United States|Ohio|Hilliard
+3.21.101.158:3128|United States|Ohio|Hilliard
+3.12.144.146:3128|United States|Ohio|Hilliard
+54.67.125.45:3128|United States|California|San Joe
+54.179.39.14:3128|Singapore|Singapore|Singapore
+46.51.249.135:3128|Japan|Tokyo|Tokyo
+3.37.125.76:3128|South Korea|Seoul|Seoul
+54.233.119.172:3128|Brazil|São Paul|São Paul
+52.67.10.183:3128|Brazil|São Paul|São Paul
+54.179.44.51:3128|Singapore|Singapore|Singapore
+52.65.193.254:3128|Australia|New South Wale|Sydney
+47.243.30.66:37469|Hong Kong|Central and Western District|Hong Kong
+47.243.30.66:37468|Hong Kong|Central and Western District|Hong Kong
+162.241.158.204:45734|United States|Georgia|Atlanta
+47.100.184.89:80|China|Shanghai|Shanghai
+8.218.160.70:5013|South Korea|Seoul|Gwanak-gu
+192.99.169.19:8453|Bangladesh|Rajshahi Division|Dupchānchia
+192.99.169.19:8445|Nepal|Province 1|Biratnagar
+162.241.158.204:37854|United States|Georgia|Atlanta
+146.59.178.220:12438|France|Hauts-de-France|Roubaix
+131.186.37.99:8080|The Netherlands|North Holland|Oude Meer
+51.20.19.159:3128|Sweden|Stockholm|Stockholm
+193.29.62.48:30000|Ukraine|Kyiv City|Kyiv
+139.180.222.130:65201|Singapore|South West|Singapore
+51.15.196.107:16379|United States|Washington|Seattle
+8.210.116.90:24321|Hong Kong|Yuen Long District|Yuen Long San Hui
+43.153.10.60:40011|United States|Minnesota|Minneapolis
+128.199.196.14:12920|Indonesia|West Java|Bekasi
+5.45.73.25:13551|Canada|Quebec|Prevost
+162.241.158.204:54417|United States|Georgia|Atlanta
+202.149.67.18:7999|Indonesia|Jakarta|Jakarta
+154.16.112.204:8860|United States|New York|New York
+45.132.75.19:26783|Brazil|Minas Gerais|Belo Horizonte
+212.118.41.204:4294|Taiwan|New Taipei|New Taipei
+51.83.190.248:19050|United States|Washington|Seattle
+212.47.245.57:16379|United States|Texas|San Angelo
+163.172.158.70:16379|Germany|Brandenburg|Brandenburg
